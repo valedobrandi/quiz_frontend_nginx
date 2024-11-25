@@ -13,7 +13,7 @@ const App: React.FC = () => {
     <div className="max-w-[64rem] m-auto p-6">
       <Header username={username} />
       <Routes>
-        <Route path="/quiz" element={<Main />} />
+        <Route index path="/quiz" element={<Main />} />
         <Route path="/quiz/game/finish" element={<Finish username={username} />} />
         <Route
           path="/quiz/game"
