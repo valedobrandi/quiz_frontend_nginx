@@ -24,6 +24,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-  base: "/quiz/", 
   server: { port: Number(port), host:true },
 });
