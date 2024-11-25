@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import Timer from "./Timer";
 import { IAction } from "../interfaces/IAction";
 import { IQuestion } from "../interfaces/IQuestions";

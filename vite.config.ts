@@ -21,5 +21,8 @@ export default defineConfig({
     },
   },
   plugins: [react()],
+  build: {
+    outDir: 'dist',
+  },
   server: { port: Number(port), host:true },
 });
