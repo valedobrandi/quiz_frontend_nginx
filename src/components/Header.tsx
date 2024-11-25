@@ -17,7 +17,7 @@ function Header({ username }: HeaderProps) {
         className="flex items-center justify-center md:m-0">
         <img
           className="w-12 h-12"
-          src="icons8-quiz-100(1).png"
+          src="icons8-quiz-100.png"
           alt="quiz icon"
         />
         <p
