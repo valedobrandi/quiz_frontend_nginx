@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "airbnb",
+    "airbnb-typescript",
+    "airbnb/hooks",
+    "plugin:react/recommended",
+    "standard-with-typescript"
+  ],
+  "includes": ["src", ".eslintrc.json"]
+}

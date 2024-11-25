@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "question": "O que é a JVM em Java?",
+      "answers": [
+        "Java Virtual Machine",
+        "Java Variable Method",
+        "Java Virtual Method",
+        "Java Variable Machine"
+      ],
+      "correct_answers": "0",
+      "explanation": "A JVM (Java Virtual Machine) é uma máquina virtual que permite que um computador execute programas Java.",
+      "tip": "Pense em como o Java é executado em diferentes plataformas.",
+      "link": "https://www.google.com/search?q=O+que+é+a+JVM+em+Java",
+      "category": "Java"
+    },
+    {
+      "id": 2,
+      "question": "Qual é a diferença entre JDK e JRE?",
+      "answers": [
+        "JDK é o Java Development Kit e JRE é o Java Runtime Environment",
+        "JDK é o Java Runtime Environment e JRE é o Java Development Kit",
+        "JDK é usado para executar programas Java e JRE é usado para desenvolvê-los",
+        "JDK e JRE são a mesma coisa"
+      ],
+      "correct_answers": "0",
+      "explanation": "JDK (Java Development Kit) é um pacote de ferramentas para desenvolver aplicativos Java, enquanto JRE (Java Runtime Environment) é um pacote para executar aplicativos Java.",
+      "tip": "Lembre-se das ferramentas necessárias para desenvolver e executar programas Java.",
+      "link": "https://www.google.com/search?q=Qual+é+a+diferença+entre+JDK+e+JRE",
+      "category": "Java"
+    },
+    {
+      "id": 3,
+      "question": "O que é o bytecode em Java?",
+      "answers": [
+        "Código que é compilado pela JVM",
+        "Código que é interpretado pela JVM",
+        "Código que é compilado pelo compilador Java e interpretado pela JVM",
+        "Código que é interpretado pelo compilador Java"
+      ],
+      "correct_answers": "2",
+      "explanation": "O bytecode é o código intermediário gerado pelo compilador Java que é interpretado pela JVM.",
+      "tip": "Pense no processo de compilação e execução de um programa Java.",
+      "link": "https://www.google.com/search?q=O+que+é+o+bytecode+em+Java",
+      "category": "Java"
+    },
+    {
+      "id": 4,
+      "question": "O que é o Garbage Collector em Java?",
+      "answers": [
+        "Um processo que coleta objetos não utilizados para liberar memória",
+        "Um processo que coleta dados de entrada do usuário",
+        "Um processo que coleta dados de saída do programa",
+        "Um processo que coleta exceções não tratadas"
+      ],
+      "correct_answers": "0",
+      "explanation": "O Garbage Collector é um processo que gerencia a memória automaticamente, coletando e liberando objetos que não são mais utilizados.",
+      "tip": "Pense em como a memória é gerenciada em Java.",
+      "link": "https://www.google.com/search?q=O+que+é+o+Garbage+Collector+em+Java",
+      "category": "Java"
+    },
+    {
+        "id": 5,
+        "question": "O que é o método main em Java?",
+        "answers": [
+          "O ponto de entrada para qualquer aplicação Java",
+          "Um método que é chamado automaticamente pelo compilador",
+          "Um método que é usado para inicializar variáveis",
+          "Um método que é usado para finalizar a aplicação"
+        ],
+        "correct_answers": "0",
+        "explanation": "O método main é o ponto de entrada para qualquer aplicação Java. É onde a execução do programa começa.",
+        "tip": "Pense em como um programa Java é iniciado.",
+        "link": "https://www.google.com/search?q=O+que+é+o+método+main+em+Java",
+        "category": "Java"
+      },
+      {
+        "id": 6,
+        "question": "O que é a herança em Java?",
+        "answers": [
+          "Um mecanismo onde uma classe pode herdar propriedades e métodos de outra classe",
+          "Um mecanismo onde uma classe pode herdar apenas métodos de outra classe",
+          "Um mecanismo onde uma classe pode herdar apenas propriedades de outra classe",
+          "Um mecanismo onde uma classe pode herdar propriedades e métodos de várias classes"
+        ],
+        "correct_answers": "0",
+        "explanation": "A herança é um mecanismo em Java onde uma classe pode herdar propriedades e métodos de outra classe, permitindo a reutilização de código.",
+        "tip": "Pense em como as classes podem compartilhar funcionalidades.",
+        "link": "https://www.google.com/search?q=O+que+é+a+herança+em+Java",
+        "category": "Java"
+      },
+      {
+        "id": 7,
+        "question": "O que é uma interface em Java?",
+        "answers": [
+          "Uma coleção de métodos abstratos",
+          "Uma coleção de métodos concretos",
+          "Uma coleção de variáveis",
+          "Uma coleção de classes"
+        ],
+        "correct_answers": "0",
+        "explanation": "Uma interface em Java é uma coleção de métodos abstratos que uma classe pode implementar.",
+        "tip": "Pense em como as classes podem fornecer funcionalidades comuns através de interfaces.",
+        "link": "https://www.google.com/search?q=O+que+é+uma+interface+em+Java",
+        "category": "Java"
+      },
+      {
+        "id": 8,
+        "question": "O que é polimorfismo em Java?",
+        "answers": [
+          "A capacidade de uma classe se comportar como uma classe pai",
+          "A capacidade de uma classe se comportar de maneiras diferentes",
+          "A capacidade de uma classe se comportar de maneira estática",
+          "A capacidade de uma classe se comportar de maneira dinâmica"
+        ],
+        "correct_answers": "1",
+        "explanation": "Polimorfismo em Java é a capacidade de uma classe se comportar de maneiras diferentes, dependendo do contexto em que é usada.",
+        "tip": "Pense em como uma classe pode ter várias formas.",
+        "link": "https://www.google.com/search?q=O+que+é+polimorfismo+em+Java",
+        "category": "Java"
+      }
+ ]
