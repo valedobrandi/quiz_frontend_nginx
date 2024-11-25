@@ -1,8 +1,10 @@
+import quizLogo from "../assets/logo512.png";
+
 function Footer() {
   return (
     <footer className="py-10">
       <hr className="border-gray-600" />
-      <img className="h-36 w-36 m-auto -mb-10" src="../assets/logo512.png" alt="quiz time" />
+      <img className="h-36 w-36 m-auto -mb-10" src={quizLogo} alt="quiz time" />
       <p className="text-center font-semibold">
         Quiz Game - App by{" "}
         <a
