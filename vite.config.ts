@@ -20,9 +20,10 @@ export default defineConfig({
       reporter: ['text', 'json', 'html'],
     },
   },
-  plugins: [react()],
+  plugins: [react()], 
   build: {
     outDir: 'dist',
   },
+  base: '/app/quiz/',
   server: { port: Number(port), host:true },
 });
