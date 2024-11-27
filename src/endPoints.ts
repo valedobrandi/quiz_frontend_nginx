@@ -1,3 +1,4 @@
 export const HTTP = {
-    QUIZ_BACKEND: import.meta.env.VITE_QUIZ_BACKEND || 'http://localhost:3001',
+    QUIZ_BACKEND: "https://www.stoicsoftwares.net/api/express",
 }
+
